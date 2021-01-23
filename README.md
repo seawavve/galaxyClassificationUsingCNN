@@ -1,6 +1,6 @@
 # galaxyClassificationUsingCNN  
 딥러닝으로 은하 분류하기    
-kaggle,Dacon 등 AIcontest 전선에 뛰어들기 전에 custom dataset 경험을 쌓고싶어 시작한 프로젝트    
+kaggle,Dacon 등 AIcontest 전선에 뛰어들기 전에 custom dataset 경험을 쌓고자 시작한 프로젝트    
   
   
 ### Dataset    
