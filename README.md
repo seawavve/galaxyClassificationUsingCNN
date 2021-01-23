@@ -16,4 +16,5 @@ edge,smooth,spiral 세 형태의 은하
 + 데이터 증대  
 + 하이퍼파라미터 변화 (ex. kernel, learning rate, epoch, batchsize)  
 + 얼리스타핑 구현  
-+ Accuracy, Loss 그래프 시각화  
++ Accuracy, Loss 그래프 시각화    
++ 사진 업로드  
