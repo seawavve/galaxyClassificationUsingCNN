@@ -10,7 +10,7 @@ edge,smooth,spiral 세 형태의 은하
 ### logbook   
 20211022 dataset수집  
 20210123 프로토타입의 main함수 구현(Accuracy:60%)  
-20210124 데이터 증대 (Accuracy:71.2%)
+20210124 데이터 증대 (Accuracy:75.6%)
 
 ### 개선사항    
 + 네트워크 형태 변화    
