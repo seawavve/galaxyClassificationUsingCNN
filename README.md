@@ -1,7 +1,7 @@
 # galaxyClassificationUsingCNN  
 딥러닝으로 은하 분류하기    
 kaggle,Dacon 등 AIcontest 전선에 뛰어들기 전에 custom dataset 경험을 쌓고자 시작한 프로젝트    
-  
+![edge](https://github.com/seawavve/galaxyClassificationUsingCNN/blob/main/edge-re%20(2407).jpg)
   
 ### Dataset    
 Kaggle에서 Lauren Wong의 'galaxydat' 은하사진 사용   
