@@ -4,6 +4,7 @@ kaggle,Dacon 등 AIcontest 전선에 뛰어들기 전에 custom dataset 경험�
 <img src="https://github.com/seawavve/galaxyClassificationUsingCNN/blob/main/edge-re%20(2407).jpg" width="100" height="100">  
   
 ### Dataset    
+https://www.kaggle.com/laurenkwong/galaxydat  
 Kaggle에서 Lauren Wong의 'galaxydat' 은하사진 사용   
 edge,smooth,spiral 세 형태의 은하   
 
